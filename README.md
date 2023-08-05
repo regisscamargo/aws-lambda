@@ -30,8 +30,5 @@ do lambda sem a inclusão do diretório `node_modules`.
 
 Para preparar o arquivo ZIP para upload basta executar o comando `pack.sh`. Se você utilizar este repositório como
 modelo para desenvolver funcionalidades mais complexas e/ou que contenham mais arquivos necessários para ser executada,
-não se esqueça de editar o arquivo `pack.sh` e incluir os arquivos adicionais. 
-
-### Tutorial
-Para seguir o passo-a-passo, acesse o [TUTORIAL](docs/TUTORIAL.md)
+não se esqueça de editar o arquivo `pack.sh` e incluir os arquivos adicionais.
 
